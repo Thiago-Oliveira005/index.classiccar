@@ -1,0 +1,52 @@
+ .cabeçalho {
+    text-align: center;
+    font-style:oblique;
+    background-color: rgb(86, 52, 7);
+    color: white;
+    font-size: 30px;
+}
+
+.cabeçalho > img {
+    height: 250x;
+    width: 230px;
+}
+
+#Barra_De_Navegação {
+    text-align: center;
+    font-size: x-large;
+    background-color: wheat;
+    color: rgb(86, 52, 7);
+
+}
+
+#Barra_De_Navegação > a{
+    color: rgb(86, 52, 7);
+}
+
+footer {
+    text-align: center;
+    font-style:oblique;
+    background-color: rgb(86, 52, 7);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Titulo_principal {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-size: 25px;
+}
+
+main > section {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body, html {
+    padding: 0;
+    margin: 0;
+}
