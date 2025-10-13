@@ -50,3 +50,17 @@ body, html {
     padding: 0;
     margin: 0;
 }
+
+.sac {
+    text-align: center;
+    font-size: 150%;
+}
+
+#equipe {
+    font-size: 150%;
+}
+
+.ofertas {
+    margin-left: 10px;
+    margin-right: 10px;
+}
